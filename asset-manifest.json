@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faizan-Area/.github.io/quotes-machine/static/css/main.dd7a39bf.css",
+    "main.js": "/Faizan-Area/.github.io/quotes-machine/static/js/main.97be287f.js",
+    "static/js/787.6f59f4e7.chunk.js": "/Faizan-Area/.github.io/quotes-machine/static/js/787.6f59f4e7.chunk.js",
+    "index.html": "/Faizan-Area/.github.io/quotes-machine/index.html",
+    "main.dd7a39bf.css.map": "/Faizan-Area/.github.io/quotes-machine/static/css/main.dd7a39bf.css.map",
+    "main.97be287f.js.map": "/Faizan-Area/.github.io/quotes-machine/static/js/main.97be287f.js.map",
+    "787.6f59f4e7.chunk.js.map": "/Faizan-Area/.github.io/quotes-machine/static/js/787.6f59f4e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7a39bf.css",
+    "static/js/main.97be287f.js"
+  ]
+}
